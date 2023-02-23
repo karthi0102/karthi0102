@@ -22,6 +22,7 @@
 
 <details><br>
   <summary>:zap: GitHub Stats</summary>
+  <p><img align="right" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthi0102&theme=github_dark" alt="itsmanibharathi" /></p>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthi0102&theme=github_dark" width="100%" />  
   <img align="left" alt="codeSTACKr's GitHub Stats" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=karthi0102&show_icons=true&theme=github_dark" />
   <p><img align="right" width="45%"  height="300px"  src="https://github-readme-streak-stats.herokuapp.com/?user=karthi0102&&theme=blueberry_duo&fire=0366D6&sideNums=778E94&currStreakNum=778E94&sideLabels=0366D6&currStreakLabel=0366D6" alt="itsmanibharathi" /></p>
