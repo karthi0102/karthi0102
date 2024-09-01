@@ -27,3 +27,5 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=karthi0102&show_icons=true&theme=github_dark" />
   <p><img align="right" width="45%"  height="300px"  src="https://github-readme-streak-stats.herokuapp.com/?user=karthi0102&&theme=blueberry_duo&fire=0366D6&sideNums=778E94&currStreakNum=778E94&sideLabels=0366D6&currStreakLabel=0366D6" alt="itsmanibharathi" /></p>
 </details>
+
+<a href="https://app.daily.dev/karthikeyanrajendran"><img src="https://api.daily.dev/devcards/v2/8bKbeMVQkaeco3Y6qWZTS.png?type=default&r=v87" width="356" alt="Karthikeyan Rajendran's Dev Card"/></a>
