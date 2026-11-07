@@ -1,143 +1,138 @@
-<h1 align="center">
-  Hi there, I'm <a href="https://github.com/karthi0102">KARTHIKEYAN R</a> 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack Developer · DevOps Explorer · Mobile App Builder · from India 🇮🇳
-</h3>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>ENGINEER SIGNAL BRIEF · karthi0102</sub></p>
+<h1>KARTHIKEYAN R</h1>
+<h2>Backend engineer · Go &amp; Node.js</h2>
+<p>Building scalable, cost-efficient cloud systems on AWS: IoT telemetry, event-driven pipelines and serverless migrations.</p>
+<p><strong>● Open to backend / SDE-2 roles</strong></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthi0102&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/karthi0102?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-</p>
+<p><a href="https://github.com/karthi0102">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/karthikeyan0102">LinkedIn</a> &nbsp;·&nbsp; <a href="https://karthi-portfolio-pearl.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="mailto:karthirajendran12003@gmail.com">Email</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/88583975?v=4" width="180" alt="KARTHIKEYAN R GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 🙋‍♂️ About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend engineer · Go · Node.js · AWS · Kafka · gRPC</p></td>
+<td width="33%" valign="top"><h3>Experience</h3><p>3.5+ years at Rently · Coimbatore, India</p></td>
+<td width="33%" valign="top"><h3>Education</h3><p>B.Tech IT, Kongu Engineering College · CGPA 9.2/10</p></td>
+</tr>
+</table>
 
-I'm a **passionate developer** from India with a broad skill set — I build everything from frontend web apps and mobile apps to backend APIs, DevOps pipelines, and cloud deployments.
+<p><sub>Backend services that are fast, observable and cheap to run.</sub></p>
 
-I love learning new technologies, experimenting with different languages (Go, Swift, Ruby, JavaScript...), and building real-world projects that solve actual problems.
+<h2>Impact at a glance</h2>
 
-- 🔭 Currently working on **OAuth implementation in Go** and exploring backend systems
-- 📱 Building **iOS apps with Swift** (Expense Tracker)
-- 🐳 Exploring **Docker, Nginx API Gateways, and DevOps automation**
-- 🧠 Always learning — currently deep-diving into **Go programming**
-- 💬 Ask me about **JavaScript, Node.js, Go, Flutter, Ruby on Rails, CI/CD**
-- 📫 Reach me at **karthirajendran12003@gmail.com**
-- ⚡ Fun fact: I've built apps in 8+ different languages/frameworks!
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**oauth**](https://github.com/karthi0102/oauth) | OAuth 2.0 implementation — handles authorization flows and token management | Go |
-| [**Expense-Tracker**](https://github.com/karthi0102/Expense-Tracker) | iOS app to track and manage personal expenses | Swift |
-| [**api-gateway-nginx**](https://github.com/karthi0102/api-gateway-nginx) | API Gateway setup using Nginx and Docker — routes requests to backend services | Dockerfile |
-| [**Lock-script**](https://github.com/karthi0102/Lock-script) | JavaScript utility script for locking/security purposes | JavaScript |
-| [**JENKINS_POC**](https://github.com/karthi0102/JENKINS_POC) | Proof of concept for CI/CD pipeline automation using Jenkins | JavaScript |
-| [**CIrcle_ci_poc**](https://github.com/karthi0102/CIrcle_ci_poc) | CircleCI pipeline setup and automation demo | JavaScript |
-| [**next-todo**](https://github.com/karthi0102/next-todo) | Todo app built with Next.js — server-side rendering + React | JavaScript |
-| [**FLUTTER_WEATHER_API**](https://github.com/karthi0102/FLUTTER_WEATHER_API) | Flutter app that fetches live weather data using a public API | Flutter/C++ |
-| [**FLUTTER_BMI_CALCULATOR**](https://github.com/karthi0102/FLUTTER_BMI_CALCULATOR) | BMI calculator mobile app built with Flutter | Flutter/C++ |
-| [**blog_ROR**](https://github.com/karthi0102/blog_ROR) | Full-stack blog application built with Ruby on Rails | Ruby |
-| [**KECFEST**](https://github.com/karthi0102/KECFEST) | College tech-fest website — event listing and registration | CSS/HTML |
-| [**DIGITAL_CARE_APP**](https://github.com/karthi0102/DIGITAL_CARE_APP) | Android health/care application | Java |
-
----
-
-## 📈 My Journey
-
-```
-2022  →  Started with Android (Java), Frontend (HTML/CSS/JS)
-2023  →  Ruby on Rails, Flutter mobile apps, Node.js backend, Next.js
-          AWS cloud deployment, Jenkins & CircleCI CI/CD pipelines
-2024  →  Docker, Nginx API Gateway, advanced DevOps automation
-2025  →  Swift iOS development, Go backend programming
-2026  →  OAuth systems in Go, deep backend architecture
-```
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/karthikeyanraj" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.hackerrank.com/karthirajendran1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-<a href="https://www.leetcode.com/karthi12003" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://app.daily.dev/karthikeyanrajendran" target="_blank">
-  <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily.dev"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>3M+</strong><br /><sub>IoT devices on a real-time telemetry pipeline</sub></td>
+<td width="25%" align="center"><strong>15+</strong><br /><sub>Lambdas migrated Node.js → Go</sub></td>
+<td width="25%" align="center"><strong>~50%</strong><br /><sub>Lower runtime &amp; cost, ~40% lower latency</sub></td>
+<td width="25%" align="center"><strong>80%</strong><br /><sub>Less manual release effort via CI/CD</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthi0102&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi0102&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="KARTHIKEYAN R GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>What I do at work</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3>Real-time telemetry</h3><p>HVAC device events flow through AWS IoT Core and Lambda into Confluent Kafka, powering alerts and live dashboards at scale.</p></td>
+<td width="50%" valign="top"><h3>Cost engineering</h3><p>Redis caching for IoT Core calls, SQS batch redesign, SQS → Kafka migration and a dual-topic IoT architecture that removed Device Shadow overhead.</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>Platform &amp; delivery</h3><p>Jenkins + Kubernetes pipelines with zero-downtime deploys. Raised automated test coverage by 30–40% across key services.</p></td>
+<td width="50%" valign="top"><h3>Architecture</h3><p>Designed an in-house telemetry service (gRPC, Kinesis) as a POC to replace a managed IoT service.</p></td>
+</tr>
+</table>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&repos=karthi0102%2Fiot-telemetry-pipelines%2Ckarthi0102%2Fdocumind%2Ckarthi0102%2Fjira-time-cli%2Ckarthi0102%2Foauth-code-project&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&repos=karthi0102%2Fiot-telemetry-pipelines%2Ckarthi0102%2Fdocumind%2Ckarthi0102%2Fjira-time-cli%2Ckarthi0102%2Foauth-code-project&v=recruiter-projects-1&mode=dark" width="100%" alt="KARTHIKEYAN R selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/karthi0102/iot-telemetry-pipelines">iot-telemetry-pipelines</a></h3>
+<p>IoT telemetry POC comparing CloudWatch vs Athena + Grafana vs ELK, with cost estimates.</p>
+<p><sub>Go</sub></p>
+<p><a href="https://github.com/karthi0102/iot-telemetry-pipelines">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/documind">documind</a></h3><p>Backend learning project: auth, OAuth2/OIDC, RBAC and beyond.</p><p><sub>Go</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/oauth-code-project">oauth-code-project</a></h3><p>OAuth 2.0 / OIDC mock: auth server, client app, resource server, log viewer.</p><p><sub>JavaScript</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/jira-time-cli">jira-time-cli</a></h3><p>CLI application to log time.</p><p><sub>Go · ⭐ 2</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi0102&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="KARTHIKEYAN R technology stack" />
+</picture>
 </p>
 
-<details>
-  <summary>📋 Detailed GitHub Activity</summary>
-  <br/>
-  <p align="center">
-    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthi0102&theme=github_dark" alt="Profile Details" />
-  </p>
-  <p align="center">
-    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthi0102&theme=github_dark" alt="Repos per Language" />
-    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthi0102&theme=github_dark" alt="Most Commit Language" />
-  </p>
-</details>
+<table width="100%">
+<tr>
+<td width="20%" valign="top"><strong>Languages</strong><br /><sub>Go, Node.js, JavaScript, TypeScript</sub></td>
+<td width="20%" valign="top"><strong>AWS</strong><br /><sub>Lambda, Kinesis, SQS, SNS, DynamoDB, S3, Cognito, IoT Core</sub></td>
+<td width="20%" valign="top"><strong>Data &amp; messaging</strong><br /><sub>PostgreSQL, MongoDB, Redis, Confluent Kafka, gRPC</sub></td>
+<td width="20%" valign="top"><strong>Delivery</strong><br /><sub>Docker, Kubernetes, Jenkins, CI/CD, Linux</sub></td>
+<td width="20%" valign="top"><strong>Design</strong><br /><sub>Microservices, event-driven, distributed systems</sub></td>
+</tr>
+</table>
 
----
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <a href="https://app.daily.dev/karthikeyanrajendran">
-    <img src="https://api.daily.dev/devcards/v2/8bKbeMVQkaeco3Y6qWZTS.png?type=default&r=v87" width="250" alt="Karthikeyan Rajendran's Dev Card"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="KARTHIKEYAN R contribution activity" />
+</picture>
 </p>
 
-<p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-</p>
+<h2>Recognition</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Business Champion</h3><p>Two consecutive quarters at Rently.</p></td>
+<td width="33%" valign="top"><h3>Pat on the Back</h3><p>Monthly peer recognition across 6+ months.</p></td>
+<td width="33%" valign="top"><h3>Academic Excellence</h3><p>Award for 2020–2021, CGPA 9.2/10.</p></td>
+</tr>
+</table>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to backend and platform roles in Go / Node.js, on thoughtful teams with hard problems.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/karthi0102">GitHub</a><br /><a href="https://www.linkedin.com/in/karthikeyan0102">LinkedIn</a><br /><a href="https://karthi-portfolio-pearl.vercel.app/">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>KARTHIKEYAN R · profile sections rendered with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
