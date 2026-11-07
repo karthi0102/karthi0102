@@ -67,24 +67,24 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&repos=karthi0102%2Fiot-telemetry-pipelines%2Ckarthi0102%2Fdocumind%2Ckarthi0102%2Fjira-time-cli%2Ckarthi0102%2Foauth-code-project&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&repos=karthi0102%2Fiot-telemetry-pipelines%2Ckarthi0102%2Fdocumind%2Ckarthi0102%2Fjira-time-cli%2Ckarthi0102%2Foauth-code-project&v=recruiter-projects-1&mode=dark" width="100%" alt="KARTHIKEYAN R selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&repos=karthi0102%2Fjira-time-cli%2Ckarthi0102%2Foauth%2Ckarthi0102%2Fapi-gateway-nginx%2Ckarthi0102%2FNilam&v=recruiter-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=karthi0102&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88583975%3Fv%3D4&repos=karthi0102%2Fjira-time-cli%2Ckarthi0102%2Foauth%2Ckarthi0102%2Fapi-gateway-nginx%2Ckarthi0102%2FNilam&v=recruiter-projects-2&mode=dark" width="100%" alt="KARTHIKEYAN R selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
-<h3><a href="https://github.com/karthi0102/iot-telemetry-pipelines">iot-telemetry-pipelines</a></h3>
-<p>IoT telemetry POC comparing CloudWatch vs Athena + Grafana vs ELK, with cost estimates.</p>
-<p><sub>Go</sub></p>
-<p><a href="https://github.com/karthi0102/iot-telemetry-pipelines">Read the repository →</a></p>
+<h3><a href="https://github.com/karthi0102/jira-time-cli">jira-time-cli</a></h3>
+<p>CLI application to log time.</p>
+<p><sub>Go · ⭐ 2</sub></p>
+<p><a href="https://github.com/karthi0102/jira-time-cli">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/documind">documind</a></h3><p>Backend learning project: auth, OAuth2/OIDC, RBAC and beyond.</p><p><sub>Go</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/oauth-code-project">oauth-code-project</a></h3><p>OAuth 2.0 / OIDC mock: auth server, client app, resource server, log viewer.</p><p><sub>JavaScript</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/jira-time-cli">jira-time-cli</a></h3><p>CLI application to log time.</p><p><sub>Go · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/oauth">oauth</a></h3><p>OAuth 2.0 flows and token handling in Go.</p><p><sub>Go</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/api-gateway-nginx">api-gateway-nginx</a></h3><p>API gateway routing to backend services with Nginx and Docker.</p><p><sub>Nginx · Docker</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/karthi0102/Nilam">Nilam</a></h3><p>Field tool for the Erode District Collectorate to digitize agricultural officer workflows.</p><p><sub>JavaScript</sub></p></td>
 </tr>
 </table>
 
